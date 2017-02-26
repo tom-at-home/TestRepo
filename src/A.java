@@ -1,10 +1,10 @@
 
 public class A {
 
-    public void TestC(){
+    public void TestCDE(){
 
-        System.out.println("TestC");
-
+        System.out.println("TestCDE");
+        System.out.println("Noch ne Zeile");
     }
 
 }
