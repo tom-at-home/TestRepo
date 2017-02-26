@@ -1,7 +1,7 @@
 
 public class A {
 
-    public void TestCDE(){
+    public void TestCCC(){
 
         System.out.println("TestCDE");
         System.out.println("Noch ne Zeile");
