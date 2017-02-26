@@ -1,11 +1,21 @@
 
 public class A {
 
-    public void TestCDE(){
+    public void TestAAA(){
 
-        System.out.println("TestCDE");
-        System.out.println("Noch ne Zeile");
+        System.out.println("TestA");
+
     }
+
+
+
+    public void TestB(){
+
+        System.out.println("TestB");
+
+    }
+
+    //System.out.println("Naechste Zeile");
 
 }
 
