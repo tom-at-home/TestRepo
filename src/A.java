@@ -1,21 +1,11 @@
 
 public class A {
 
-    public void TestA(){
+    public void TestC(){
 
-        System.out.println("TestA");
-
-    }
-
-
-
-    public void TestB(){
-
-        System.out.println("TestB");
+        System.out.println("TestC");
 
     }
-
-    //System.out.println("Naechste Zeile");
 
 }
 
